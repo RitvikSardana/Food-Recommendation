@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  background-color: rgb(74, 192, 153);
+  border-color: goldenrod;
+  width: 100px;
+}
+.dishList {
+  list-style: none;
+  border: 2px solid goldenrod;
+  width: 200px;
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 0.8rem;
+  background: linear-gradient(120deg, #4512fe, #cbd2d3);
+}
